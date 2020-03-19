@@ -1,0 +1,2 @@
+# rabbitmq-stu
+rabbitmq study
